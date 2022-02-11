@@ -1,4 +1,4 @@
-# ManajemenPassword
+# Manajemen Password
 Aplikasi Manajemen Password Atau Pengelola Kata Sandi yang sederhana mudah digunakan namun cukup efektif dan aman. 
 Dibuat dengan Python.
 
